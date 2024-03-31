@@ -5,6 +5,7 @@
 
 
 🏆 **Competition background**
+* 🥇 UfaHack 2024
 * 🥈 Digital Breakpoint 2023 Stavropol
 * 🥉 All-Russian Digital Breakpoint 2023
 * 🥉 HackWagon 2022
