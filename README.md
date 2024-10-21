@@ -1,7 +1,7 @@
 <👋Hola, World!>
 ==============================================================================================================================
 
-🤓 backend dev. and begginer ML-engineer
+🤓 python backend dev
 
 
 🏆 **Competition background**
@@ -14,15 +14,8 @@
 📱 **Work**
 * **Rosneft** May 2023 - current
 
-🌏 **Kaggle**
-* cooming soon 🤠
-
-📫 **Contact** 
-
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kaggle.svg" />][kaggle]
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[kaggle]: https://www.kaggle.com/rotmer
 [linkedin]: http://linkedin.com/in/ratmir-gainetdinov-9825462a4
 
 
