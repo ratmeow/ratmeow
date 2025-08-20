@@ -1,10 +1,6 @@
-<👋Hola, World!>
-==============================================================================================================================
+``Python Backend Developer``
 
-🤓 Python backend developer and a little bit into ML Hacks
-
-
-🏆 **Competition background**
+and a little bit into ML Hacks 🤓
 * 🥇 UfaHack 2024
 * 🥈 Digital Breakpoint 2023 Stavropol
 * 🥉 All-Russian Digital Breakpoint 2023
