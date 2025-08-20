@@ -1,7 +1,7 @@
 <👋Hola, World!>
 ==============================================================================================================================
 
-🤓 Python backend developer and a bit into ML
+🤓 Python backend developer and a little bit into ML Hacks
 
 
 🏆 **Competition background**
